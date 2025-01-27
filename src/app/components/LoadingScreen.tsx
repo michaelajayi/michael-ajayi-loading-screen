@@ -142,7 +142,7 @@ const LoadingScreen = ({ children }: LoadingScreenProps) => {
             transition={{ duration: 0.5 }}
             className='font-cormorant-unicase font-bold tracking-widest text-white text-[24px] leading-normal mb-2'
           >
-            Crafting your Exprience
+            Crafting your Experience
           </motion.div>
 
           <div className='w-64 h-1 bg-gray-700 rounded-full overflow-hidden'>
