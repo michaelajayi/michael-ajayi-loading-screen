@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        "cormorant-unicase": ["var(--font-cormorant)"],
+        'satisfy': ['var(--font-satisfy)']
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
